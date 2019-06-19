@@ -1,13 +1,13 @@
 // Copyright 2015-2016 Code Respawn Technologies. MIT License
 
-#include "HasteEditorPrivatePCH.h"
 #include "HasteEdMode.h"
+#include "HasteEditorPrivatePCH.h"
 #include "UnrealEd.h"
 #include "StaticMeshResources.h"
 #include "ObjectTools.h"
 #include "ScopedTransaction.h"
 
-#include "ModuleManager.h"
+#include "Modules/ModuleManager.h"
 #include "Editor/LevelEditor/Public/LevelEditor.h"
 #include "Toolkits/ToolkitManager.h"
 

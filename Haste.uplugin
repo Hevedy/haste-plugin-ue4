@@ -6,7 +6,7 @@
 	"VersionName" : "1.1.3",
 	"CreatedBy" : "Ali Akbar Vathi",
 	"CreatedByURL" : "http://coderespawn.com",
-	"EngineVersion" : "4.14.0",
+	"EngineVersion" : "4.21.0",
 	"Description" : "Quickly place meshes all over your scene with point and click",
 	"Category" : "Productivity",
 	"EnabledByDefault" : true,
@@ -15,7 +15,8 @@
 	[
 		{
 			"Name" : "HasteEditor",
-			"Type" : "Editor"
+			"Type" : "Editor",
+			"LoadingPhase": "PostDefault"
 		}
 	]
 }

@@ -3,8 +3,8 @@
 #pragma once
 
 #include "UnrealEd.h"
-#include "ModuleManager.h"
-#include "ModuleInterface.h"
+#include "Modules/ModuleManager.h"
+#include "Modules/ModuleInterface.h"
 
 
 /**

@@ -1,6 +1,8 @@
 # Haste Plugin - UE4 Editor Mode for Rapid Mesh Placement
 
-**Haste** is a Custom Unreal Engine 4 Editor Mode that lets you place static meshes all over your map with point and click
+**Haste** is a Custom Unreal Engine 4 Editor Mode that lets you place static meshes all over your map with point and click</br>
+
+Edited by Hevedy for Unreal Engine 4.21 version</br></br>
 
 ## Usage
 1. Enter **Haste Edit Mode** by selecting the Haste tab in the editor 

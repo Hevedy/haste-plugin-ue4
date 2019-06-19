@@ -1,5 +1,6 @@
 // Copyright 2015-2016 Code Respawn Technologies. MIT License
 
+#include "HasteEditorModule.h"
 #include "HasteEditorPrivatePCH.h"
 
 #include "AssetToolsModule.h"
@@ -7,7 +8,7 @@
 #include "LevelEditor.h"
 #include "LevelEditorActions.h"
 
-#include "ModuleManager.h"
+#include "Modules/ModuleManager.h"
 #include "HasteEdMode.h"
 
 #define LOCTEXT_NAMESPACE "HasteEditorModule" 
